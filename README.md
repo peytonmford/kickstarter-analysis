@@ -8,7 +8,7 @@ The outcomes based on launch dates for the theater category have been mostly suc
 #### Graph 1.1
 ![Theater_Outcomes_vs_Launch](/Users/peytonford/Desktop/Data Analysis/Crowdfunding Analysis/Resources/Theater_Outcomes_vs_Launch.png). 
 ### Analysis of Outcomes Based on Goals 
-The outcomes based on goal amounts have mostly even percentages. The goals of the campaigns that were the most successful were the budgetary goals with a $1000 or less, with a percentage of 76% success rate. The campaign goals with the most failures were the budgetary goals range of $45,000 to $49,999.  The *Outcomes Based on Goal* graph shows each of the budget ranges and how they compare with success rate and failure rate. 
+The outcomes based on goal amounts have mostly even percentages, between the successful projects and the failed projects. The goals of the campaigns that were the most successful were the budgetary goals with a $1000 or less, with a percentage of 76% success rate. The campaign goals with the most failures were the budgetary goals range of $45,000 to $49,999.  The *Outcomes Based on Goal* graph shows each of the budget ranges and how they compare with success rate and failure rate. 
 #### Graph 1.2
 ![Outcomes_vs_Goals](/Users/peytonford/Desktop/Data Analysis/Crowdfunding Analysis/Resources)
 ### Challenges and Difficulties Encountered
