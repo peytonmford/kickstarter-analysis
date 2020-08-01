@@ -6,7 +6,7 @@ The purpose of this analysis is to show the trends of kickstarter campaign data,
 ### Analysis of Outcomes Based on Launch Date
 The outcomes based on launch dates for the theater category have been mostly successful. As you can see from the *Theater Outcomes Based on Launch Date* graph, more than 50% of theater productions launched have been successful. The most successful time frame has been when theater would launch in May, with June and July still higher the other nine months. The best time to launch a new theater production would be in the summer months, such as May, June, and July; and the worst months to launch a theater piece would be December and January. 
 #### Graph 1.1
-![Theater_Outcomes_vs_Launch](./Resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](./Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals 
 The outcomes based on goal amounts have mostly even percentages, between the successful projects and the failed projects. The goals of the campaigns that were the most successful were the budgetary goals with a $1000 or less, with a percentage of 76% success rate. The campaign goals with the most failures were the budgetary goals range of $45,000 to $49,999.  The *Outcomes Based on Goal* graph shows each of the budget ranges and how they compare with success rate and failure rate. 
 #### Graph 1.2
