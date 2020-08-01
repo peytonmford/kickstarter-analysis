@@ -10,7 +10,7 @@ The outcomes based on launch dates for the theater category have been mostly suc
 ### Analysis of Outcomes Based on Goals 
 The outcomes based on goal amounts have mostly even percentages, between the successful projects and the failed projects. The goals of the campaigns that were the most successful were the budgetary goals with a $1000 or less, with a percentage of 76% success rate. The campaign goals with the most failures were the budgetary goals range of $45,000 to $49,999.  The *Outcomes Based on Goal* graph shows each of the budget ranges and how they compare with success rate and failure rate. 
 #### Graph 1.2
-![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](./Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 The biggest challenge I faced was the 
 ## Results
