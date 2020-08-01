@@ -12,8 +12,12 @@ The outcomes based on goal amounts have mostly even percentages, between the suc
 #### Graph 1.2
 ![Outcomes_vs_Goals](./Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
-The biggest challenge I faced was the 
+The biggest challenge that could be encountered during this analysis is the possiblity of not being able to get the right fields for the pivot table and making sure that is what the client wants. Everyone interprets requests differently, so asking specific questions on what the client wants is crucial. The biggest challenge I faced was some of the instructions were not clear, so I was left guessing on what the instructions were telling me.  
 ## Results
 Some conclusions about the Outcomes Based on Launch Date is the second quarter of the year is the best time to launch a new theater production. The summer months are when more people take off of work and have more time to committ to those productions. Also, the second quarter the most popular times to launch a new theater production, whether it was success or failed, so that goes with my result of launching the production in the summer months. 
 
 A conclusion about the Outcomes Based on Goals was that the majority of goals were in the range of $1000 to $4,999, with 73% of the total projects being successful. With our client's goal of $10,000, she has around 54% of being successful, but I believe if she were to launch her play in the second quarter of the year, she will be successful in her endeavors.  
+
+I believe that this data set had a lot of useful information in it. There is very few limitations just because it does has a vast amount of data. A limitation is that it is not up to date. If the client wanted today's information and what would work for today's plays, we wouldn't be able to give it to them. 
+
+There could be different graphs, such as a bar chart. I think that the line graphs are the best options, for this case. They give easy to read and accessible data easily. On the *Outcomes Based on Goals* chart, we could add markers to clearly distinct the different points of data.
