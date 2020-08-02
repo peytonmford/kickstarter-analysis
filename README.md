@@ -6,11 +6,11 @@ The purpose of this analysis is to show the trends of kickstarter campaign data,
 ### Analysis of Outcomes Based on Launch Date
 The outcomes based on launch dates for the theater category have been mostly successful. As you can see from the *Theater Outcomes Based on Launch Date* graph, more than 50% of theater productions launched have been successful. The most successful time frame has been when theater would launch in May, with June and July still higher the other nine months. The best time to launch a new theater production would be in the summer months, such as May, June, and July; and the worst months to launch a theater piece would be December and January. 
 #### Graph 1.1
-![Theater_Outcomes_vs_Launch](./Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals 
 The outcomes based on goal amounts have mostly even percentages, between the successful projects and the failed projects. The goals of the campaigns that were the most successful were the budgetary goals with a $1000 or less, with a percentage of 76% success rate. The campaign goals with the most failures were the budgetary goals range of $45,000 to $49,999.  The *Outcomes Based on Goal* graph shows each of the budget ranges and how they compare with success rate and failure rate. 
 #### Graph 1.2
-![Outcomes_vs_Goals](./Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 The biggest challenge that could be encountered during this analysis is the possiblity of not being able to get the right fields for the pivot table and making sure that is what the client wants. Everyone interprets requests differently, so asking specific questions on what the client wants is crucial. The biggest challenge I faced was some of the instructions were not clear, so I was left guessing on what the instructions were telling me.  
 ## Results
